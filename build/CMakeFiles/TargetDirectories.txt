@@ -1,0 +1,15 @@
+C:/PROJECT/checkers/build/CMakeFiles/main.dir
+C:/PROJECT/checkers/build/CMakeFiles/tests.dir
+C:/PROJECT/checkers/build/CMakeFiles/edit_cache.dir
+C:/PROJECT/checkers/build/CMakeFiles/rebuild_cache.dir
+C:/PROJECT/checkers/build/CMakeFiles/list_install_components.dir
+C:/PROJECT/checkers/build/CMakeFiles/install.dir
+C:/PROJECT/checkers/build/CMakeFiles/install/local.dir
+C:/PROJECT/checkers/build/CMakeFiles/install/strip.dir
+C:/PROJECT/checkers/build/_deps/doctest-build/CMakeFiles/doctest_with_main.dir
+C:/PROJECT/checkers/build/_deps/doctest-build/CMakeFiles/edit_cache.dir
+C:/PROJECT/checkers/build/_deps/doctest-build/CMakeFiles/rebuild_cache.dir
+C:/PROJECT/checkers/build/_deps/doctest-build/CMakeFiles/list_install_components.dir
+C:/PROJECT/checkers/build/_deps/doctest-build/CMakeFiles/install.dir
+C:/PROJECT/checkers/build/_deps/doctest-build/CMakeFiles/install/local.dir
+C:/PROJECT/checkers/build/_deps/doctest-build/CMakeFiles/install/strip.dir
